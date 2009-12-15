@@ -1,8 +1,6 @@
 ---
 name: Pinyin
-authors: 
-- Bill Lue
-
+author: bill
 category: Utilities
 tags: [pinyin, chinese]
 #docs: http://url.to.docs

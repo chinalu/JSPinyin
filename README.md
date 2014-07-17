@@ -3,6 +3,8 @@ Pinyin
 
 To get chinese pinyin from chinese.
 
+It's based on mootools.
+
 How to use
 ----------
 

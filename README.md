@@ -20,4 +20,4 @@ Options
 License
 -------
 
-MIT License. Copyright 2008-2010 [Bill Lue](@Billlue).
+MIT License. Copyright 2008-2010 ([@Billlue](https://twitter.com/billlue/)).
